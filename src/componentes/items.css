@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+}
+
+#MYH1 {
+    color: aqua;
+}
+
+#MyImage {
+    width: 30%;
+}
+
+#MyB {
+    color: purple;
+    padding-right: 15px;
+}
+
+#MyB {
+    text-align: center;
+    background-color: gray;
+}
+
+#contener-div{
+    /* display: flex; */
+    background-color: whitesmoke;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
